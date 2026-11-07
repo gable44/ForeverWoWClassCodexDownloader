@@ -1,12 +1,14 @@
-# WoW ClassCodex Addon Downloader
+# WoW ClassCodex Forever Addon Downloader
 
-This repository provides a downloader script for the ClassCodex Addon for World of Warcraft Forever.
+This repository provides a downloader script for the ClassCodex Addon for World of Warcraft Forever version.
 
 # ClassCodex Downloader
 
 A simple downloader script for the [ClassCodex](https://addons.wago.io/addons/classcodex) Addon for World of Warcraft. (https://www.icy-veins.com/download)
 
 The script downloads the latest production build of ClassCodex, verifies the downloaded files using SHA-256 checksums, and installs or updates the addon in your addons folder defined in the script folder.
+
+Looking for the Retail version? https://github.com/gable44/RetailWoWClassCodexDownloader
 
 ## Features
 
