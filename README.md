@@ -46,7 +46,7 @@ DRY_RUN = True
 The script will:
 1. Download the current ClassCodex channel configuration.
 2. Download and verify the manifest.
-3. Verify that the manifest belongs to ClassCodex Retail.
+3. Verify that the manifest belongs to ClassCodex Forever.
 4. Compare local files with the expected SHA-256 hashes.
 5. Download missing or outdated files.
 6. Verify every downloaded file.
